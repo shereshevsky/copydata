@@ -1,0 +1,6 @@
+ ☐ fix confirmDelete function in config project
+ ✔ create restore project for every project running @done (13-03-18 15:35)
+ ✔ add backup for sequences @done (13-03-18 15:35)
+ ☐ sending mail with logs after project is finished
+ ☐ auto delete backup tables and restore project
+ ☐ multithread

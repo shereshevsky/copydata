@@ -1,0 +1,13 @@
+<module>
+	<rawname>copydata</rawname>
+	<name>CopyData</name>
+	<category>CopyData</category>
+	<version>1.0</version>
+	<menuitems>
+		<copydata>CopyData</copydata>
+		<copydataproject>RunProjects</copydataproject>
+		<copydataprojconfig>EditProjects</copydataprojconfig>
+	</menuitems>
+	<location></location>
+	<info></info>
+</module>

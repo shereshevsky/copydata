@@ -1,10 +1,10 @@
 <?php
 /*
-* Data Compare Setup Page
+* CopyData supporting functions
 *
 * @original author Alexander Shereshevsky - Amdocs (shereshevsky@gmail.com)
-* @created Aug 16,2012
-* @last_modification Aug 16,2012
+* @created Mar 16,2013
+* @last_modification Aug 16,2013
 */
 
 /* copydata module functions */

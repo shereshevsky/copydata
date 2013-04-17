@@ -1,10 +1,10 @@
 <?php
 /*
-* SnapRefresh Snapshot Manual Refresh Page
+* CopyData Manual Copy Page
 *
 * @original author Alexander Shereshevsky - Amdocs (shereshevsky@gmail.com)
-* @created Jan 29 2008
-* @last_modification Jan 29,2008
+* @created Mar 16,2013
+* @last_modification Mar 16,2013
 */
 
 $action = isset($_REQUEST['action'])?$_REQUEST['action']:false;

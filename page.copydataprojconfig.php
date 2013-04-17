@@ -1,10 +1,10 @@
 <?php
 /*
-* Data Compare Setup Page
+* CopyData Project Config Page
 *
 * @original author Alexander Shereshevsky - Amdocs (shereshevsky@gmail.com)
-* @created Aug 16,2012
-* @last_modification Aug 16,2012
+* @created Mar 16,2013
+* @last_modification Mar 16,2013
 */
 
 $action = isset($_REQUEST['action'])?$_REQUEST['action']:false;

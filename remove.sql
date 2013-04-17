@@ -1,9 +1,12 @@
 --
--- SnapRefresh Module supporting tables
+-- CopyData Module supporting tables
 --
--- @original author Ryan McDaniel - Amdocs (ramcda@hotmail.com)
--- @created Jan 16 2008
--- @last_modification Jan 16,2008
+-- @original author Alexander Shereshevsky - Amdocs (shereshevsky@gmail.com)
+-- @created Mar 16,2013
+-- @last_modification Mar 16,2013
 --
 
-DROP TABLE SNAPREFRESH_ENVIRONMENTS;
+ALTER TABLE COPYDATA_PROJECTS
+ DROP PRIMARY KEY CASCADE;
+
+DROP TABLE COPYDATA_PROJECTS CASCADE CONSTRAINTS;
